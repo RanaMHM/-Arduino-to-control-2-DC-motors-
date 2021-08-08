@@ -1,1 +1,1 @@
-# -Arduino-to-control-2-DC-motors-
+# Arduino to control 2 DC motors
