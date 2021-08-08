@@ -14,7 +14,7 @@
 ## Connect the components together
 ⋆ You must take care to connect the wires from the h-bridge l293 to the corresponding part in the other components.<br>
 &nbsp;&nbsp;&nbsp;The following image shows the name of the ports on the h-bridge l293 with tables showing each port with its corresponding port in the other components.
-<br>
+<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="500" src="https://user-images.githubusercontent.com/52053143/128626023-53d7d8d9-e364-4c17-b7c4-b842eebb2130.png">
 
@@ -26,7 +26,9 @@
 
 
 <br> <br>
-## Circuit after connection
+
+
+# Circuit after connection
 ![circut](https://user-images.githubusercontent.com/52053143/128625895-215c4d46-7342-49d6-940c-9d3005b95663.jpg)
 
 
