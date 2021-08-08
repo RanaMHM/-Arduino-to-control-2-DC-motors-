@@ -30,6 +30,30 @@
 
 # Circuit after connection
 ![circut](https://user-images.githubusercontent.com/52053143/128625895-215c4d46-7342-49d6-940c-9d3005b95663.jpg)
+<br>
+
+## Programming the circuit in C++ 
+***
+void setup()
+{
+  pinMode(13, OUTPUT);
+   pinMode(12, OUTPUT);
+   pinMode(7, OUTPUT);
+   pinMode(8, OUTPUT);
+ 
+   
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  digitalWrite(12, LOW);
+  
+  digitalWrite(7, LOW);
+  digitalWrite(8, HIGH);
+}
+***
+
 
 
 
