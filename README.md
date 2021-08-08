@@ -1,1 +1,1 @@
-# Arduino to control 2 DC motors with H-brage l293
+# Arduino to control 2 DC motors with H-bridge l293
