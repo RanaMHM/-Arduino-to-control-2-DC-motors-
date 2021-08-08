@@ -13,12 +13,13 @@
 
 ## Connect the components together
 ⋆ You must take care to connect the wires from the h-bridge l293 to the corresponding part in the other components.<br>
-&nbsp;&nbsp;&nbsp;The following image shows the name of the ports on the h-bridge l293.
+&nbsp;&nbsp;&nbsp;The following image shows the name of the ports on the h-bridge l293 with tables showing each port with its corresponding port in the other components
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="500" src="https://user-images.githubusercontent.com/52053143/128626023-53d7d8d9-e364-4c17-b7c4-b842eebb2130.png">
 
 
-<img width="380" alt="table1" src="https://user-images.githubusercontent.com/52053143/128627010-09f87110-6ce4-4671-a39d-c67812dde46d.png"> <img width="380" alt="table2" src="https://user-images.githubusercontent.com/52053143/128627014-987483fb-300b-42e4-a77a-4322519942eb.png"> <img width="190" alt="table3" src="https://user-images.githubusercontent.com/52053143/128627016-f6e598c2-201f-491e-89ec-3734d56cbdf8.png">
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="380" alt="table1" src="https://user-images.githubusercontent.com/52053143/128627010-09f87110-6ce4-4671-a39d-c67812dde46d.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="380" alt="table2" src="https://user-images.githubusercontent.com/52053143/128627014-987483fb-300b-42e4-a77a-4322519942eb.png"> 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="190" alt="table3" src="https://user-images.githubusercontent.com/52053143/128627016-f6e598c2-201f-491e-89ec-3734d56cbdf8.png">
 
 
 ![circut](https://user-images.githubusercontent.com/52053143/128625895-215c4d46-7342-49d6-940c-9d3005b95663.jpg)
