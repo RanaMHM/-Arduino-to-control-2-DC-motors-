@@ -33,7 +33,8 @@
 <br>
 
 ## Programming the circuit in C++ 
-***
+
+```
 void setup()
 {
   pinMode(13, OUTPUT);
@@ -52,7 +53,7 @@ void loop()
   digitalWrite(7, LOW);
   digitalWrite(8, HIGH);
 }
-***
+```
 
 
 
