@@ -1,5 +1,5 @@
 # Arduino to control 2 DC motors with H-bridge l293
-✪ A training assignment in Smart Methods Company for the department of Electronics and Electrical Power Engineering.
+✪ A training task in Smart Methods Company for the department of Electronics and Electrical Power Engineering.
 **<div>✪ The circuit was designed using <a href=https://www.tinkercad.com/dashboard>Tinkercad website. </a> &nbsp; <img width="100" src="https://user-images.githubusercontent.com/52053143/127372588-fb30e614-62b4-4f9a-bda3-eaf2061234e0.png"> </div> <br> </div>**
  ## Circuit components:
  * Arduino Uno R3.
