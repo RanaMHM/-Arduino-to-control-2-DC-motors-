@@ -13,16 +13,22 @@
 
 ## Connect the components together
 ⋆ You must take care to connect the wires from the h-bridge l293 to the corresponding part in the other components.<br>
-&nbsp;&nbsp;&nbsp;The following image shows the name of the ports on the h-bridge l293 with tables showing each port with its corresponding port in the other components
+&nbsp;&nbsp;&nbsp;The following image shows the name of the ports on the h-bridge l293 with tables showing each port with its corresponding port in the other components.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="500" src="https://user-images.githubusercontent.com/52053143/128626023-53d7d8d9-e364-4c17-b7c4-b842eebb2130.png">
 
 
-;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="380" alt="table1" src="https://user-images.githubusercontent.com/52053143/128627010-09f87110-6ce4-4671-a39d-c67812dde46d.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="380" alt="table2" src="https://user-images.githubusercontent.com/52053143/128627014-987483fb-300b-42e4-a77a-4322519942eb.png"> 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="190" alt="table3" src="https://user-images.githubusercontent.com/52053143/128627016-f6e598c2-201f-491e-89ec-3734d56cbdf8.png">
+&nbsp;&nbsp;&nbsp;<img width="380" alt="table1" src="https://user-images.githubusercontent.com/52053143/128627598-bbc9b96f-ed70-48bc-949c-b83e2e3f50ba.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="380" alt="table2" src="https://user-images.githubusercontent.com/52053143/128627599-f0a1421a-bee1-453b-98e2-4c5361643b39.png"> <br>
+&nbsp;&nbsp;&nbsp;<img width="350" alt="table3" src="https://user-images.githubusercontent.com/52053143/128627601-93e7e294-8e55-4202-bbdc-4db46e1784c5.png">
 
 
+
+
+<br> <br>
+## Circuit after connection
 ![circut](https://user-images.githubusercontent.com/52053143/128625895-215c4d46-7342-49d6-940c-9d3005b95663.jpg)
+
 
 
 
